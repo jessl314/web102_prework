@@ -30,15 +30,13 @@ function addGamesToPage(games) {
     for (let i = 0; i < games.length; i++) {
         const gameCard = document.createElement('div');
         gameCard.classList.add('game-card'); 
-        games[i].innerHTML = `
-        <div class="game-card">
+        gameCard.innerHTML = `
            <h3>${games[i].name}</h3>
            <img src="${games[i].img}" class="game-img" alt="${games[i].name}" />
            <p>${games[i].description}</p>
-        </div>
-         `
+         `;
         // appends each gameCard to the container
-        document.querySelector('.game-container').appendChild(gameCard);
+        document.querySelector('#games-container').appendChild(gameCard);
     }
 }
 
