@@ -34,7 +34,7 @@ gif created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I am used to working with React so getting the syntax down was a bit challenging. I had also not had much experience with more complex functions and with DOM and creating HTML elements in JavaScript so that was also something I learned.
 
 ## License
 
