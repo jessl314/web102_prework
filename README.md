@@ -28,9 +28,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://www.loom.com/share/de96473efcd743328dbcb3d6a9ee50dd?sid=30a7c754-17d9-4939-a98a-99ce68125d7b 
+<img src='https://i.imgur.com/MLA1rTq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Video created with Loom
+gif created with LICEcap
 
 ## Notes
 
