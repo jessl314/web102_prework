@@ -73,6 +73,17 @@ body {
     text-align: center;
 }
 
+#search-form {
+    text-align: center;
+}
+
+#search-form button {
+    padding: 0.3rem;
+}
+
+.dropdown:hover {
+    color: lightblue;
+}
 button {
     font-family: 'Cabin';
     border: none;
@@ -80,3 +91,4 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
